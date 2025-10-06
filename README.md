@@ -74,6 +74,7 @@ Tenho experiência tanto em **infraestrutura** quanto em **desenvolvimento web**
 - Carrinho de compras com JS  
 - Integração de dashboards Power BI em Laravel  
 - Instalações automatizadas de aplicações web  
+- Landing page em React (Cursos League of Legends e Afiliado hotmart)
 
 ---
 
