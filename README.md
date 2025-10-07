@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Matheus Sarcineli  
+# Olá! Eu sou o Matheus Sarcineli  
 
 🎯 **SysAdmin / DevOps em evolução** | 🌐 **Infraestrutura, Automação e Integração de Sistemas**
 
