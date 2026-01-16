@@ -1,112 +1,141 @@
-# Olá! Eu sou o Matheus Sarcineli  
+# Hi! I'm Matheus Sarcineli
 
-🎯 **SysAdmin / DevOps em evolução** | 🌐 **Infraestrutura, Automação e Integração de Sistemas**
-
----
-
-## 🧠 Sobre mim
-
-Sou um profissional com perfil técnico **intermediário e multidisciplinar**, apaixonado por entender como tudo se conecta.  
-Gosto de aprender na prática, montar ambientes complexos do zero e resolver problemas que exigem raciocínio lógico e visão de sistema.
-
-Tenho experiência tanto em **infraestrutura** quanto em **desenvolvimento web**, e estou trilhando um caminho sólido rumo ao **DevOps** — unindo servidores, automação e pipelines de entrega contínua.
+🎯 **SysAdmin / DevOps in progress** | 🌐 **Infrastructure, Automation & Systems Integration**
 
 ---
 
-## 🖥️ Sistemas e Infraestrutura
+## 🧠 About me
 
-💾 **Domínio em:**
-- **Ubuntu Server** e **CentOS 7** – instalação, configuração e manutenção de serviços  
-- **VirtualBox** e **Vagrant** – redes NAT, bridge e SSH  
-- **Microsoft Azure** – criação e integração de VMs via **VNet**  
-- Gerenciamento de usuários, permissões e estrutura de diretórios (`/var/www/`)  
-- **systemd**, **expect** e automação de instalações  
+I’m a **mid-level, multidisciplinary** tech professional who loves understanding how everything connects.  
+I learn best by doing: building complex environments from scratch and solving problems that require logical thinking and a system-wide view.
 
-📡 **Experiência prática em:**
-- Transferência de arquivos com **SCP** e chaves SSH  
-- Resolução de problemas de rede (timeout, DNS, portas, firewall)
+I’ve worked across **infrastructure** and **web development**, and I’m building a solid path toward **DevOps** — bringing together servers, automation, and continuous delivery pipelines.
 
 ---
 
-## 🌐 Web e Servidores de Aplicação
+## 🚀 Featured Projects
 
-🔥 **Experiência sólida com:**
-- **Nginx** e **Apache** – configuração de virtual hosts, permissões e deploy  
-- **PHP 7.4 – 8** – debugging, otimização e integração de sistemas  
-- **Composer** e **npm** – gerenciamento de dependências  
-- **Symfony 2** e **Laravel (Blade)** – integração de dashboards Power BI em sistemas web  
+- **Cronus Project — Power BI Dashboard**  
+  Power BI dashboard for locating assets by serial number, asset tag, or assigned user.  
+  Tech: Power BI, PowerQuery, Excel, ETL
 
----
+- **AtoM — Automated Installation & Deployment**  
+  Automation script for a full AtoM (Access to Memory) deployment and its dependencies.  
+  Tech: Ubuntu, PHP, Elasticsearch, MySQL, Nginx
 
-## 🗃️ Banco de Dados
+- **Novo Inventário (SMC/STI) — Dockerized Deployment**  
+  Dockerized deployment of the Novo Inventário system for IT equipment management and traceability.  
+  Tech: Ubuntu, Docker Compose, Next.js, MySQL, Nginx
 
-🧩 **MySQL** e **MariaDB**
-- Criação e restauração de bancos com `mysqldump`  
-- Execução de **SELECT**, **UPDATE**, controle de permissões  
-- Troubleshooting via linha de comando  
+- **Intranet Cultura (SMC/STI) — Containerized Deployment**  
+  Containerization of Intranet Cultura to centralize internal information, events, and useful links for São Paulo's Secretariat of Culture.  
+  Tech: Ubuntu, Docker Compose, PHP, MySQL, Nginx, Apache, CI/CD
 
----
+- **AI Agent Integrated with GLPI (n8n + RAG)**  
+  Development of an AI agent for support and ticket analysis in an n8n–GLPI workflow with RAG search, using Qdrant, Ollama, and Postgres in Docker.  
+  Tech: Ubuntu, Docker Compose, n8n, Qdrant, Ollama, Nginx, Postgres, JavaScript
 
-## ⚙️ DevOps & Automação
-
-🚀 **Em evolução, já com base sólida em:**
-- **CI/CD com GitHub Actions**  
-- **Zabbix e Grafana** – monitoramento de métricas (CPU, RAM, rede, link)  
-- **Shell Script** e automação completa de instalações (como o AtoM + stack PHP/Nginx/MySQL)  
-- Diagnóstico e otimização de rede e serviços  
-
-🎯 **Próximos passos:**
-- Aprofundar em **Docker** e **Kubernetes**  
-- Aprender **Ansible** e **Terraform** (Infraestrutura como Código)  
-- Avançar em **Python para automação DevOps**  
-- Praticar **CI/CD multi-ambiente**  
+- **Landing Page — “Organizando a Vida”**  
+  Built the “Organizando a Vida” landing page to sell digital notebooks, with a responsive layout and conversion-focused UX.  
+  Tech: Tailwind, Next.js, GitHub, Vercel, DNS setup  
+  Live: https://app.organizandoavida.com/
 
 ---
 
-## 💻 Desenvolvimento
+## 🖥️ Systems & Infrastructure
 
-🌱 **Stack atual:**
+💾 **Strong with:**
+- **Ubuntu Server** and **CentOS 7** — installing, configuring, and maintaining services  
+- **VirtualBox** and **Vagrant** — NAT/bridge networking and SSH  
+- **Microsoft Azure** — creating and integrating VMs via **VNets**  
+- User management, permissions, and directory structure (`/var/www/`)  
+- **systemd**, **expect**, and installation automation  
+
+📡 **Hands-on experience with:**
+- File transfers using **SCP** and SSH keys  
+- Network troubleshooting (timeouts, DNS, ports, firewall)
+
+---
+
+## 🌐 Web & Application Servers
+
+🔥 **Solid experience with:**
+- **Nginx** and **Apache** — virtual hosts, permissions, and deployments  
+- **PHP 7.4–8** — debugging, optimization, and systems integration  
+- **Composer** and **npm** — dependency management  
+- **Symfony 2** and **Laravel (Blade)** — embedding Power BI dashboards into web systems  
+
+---
+
+## 🗃️ Databases
+
+🧩 **MySQL** and **MariaDB**
+- Creating and restoring databases with `mysqldump`  
+- Running **SELECT**, **UPDATE**, and permission control  
+- CLI troubleshooting  
+
+---
+
+## ⚙️ DevOps & Automation
+
+🚀 **Currently growing, with a solid foundation in:**
+- **CI/CD with GitHub Actions**  
+- **Zabbix & Grafana** — metrics monitoring (CPU, RAM, network, link)  
+- **Shell scripting** and fully automated installs (e.g., AtoM + PHP/Nginx/MySQL stack)  
+- Diagnosing and optimizing services and network issues  
+
+🎯 **Next steps:**
+- Go deeper into **Docker** and **Kubernetes**  
+- Learn **Ansible** and **Terraform** (Infrastructure as Code)  
+- Level up **Python for DevOps automation**  
+- Practice **multi-environment CI/CD**  
+
+---
+
+## 💻 Development
+
+🌱 **Current stack:**
 - **HTML**, **CSS**, **JavaScript (ES6+)**  
 - **React + TailwindCSS**  
-- **PHP** (mini projetos práticos e estudos de lógica)  
+- **PHP** (hands-on mini projects and logic practice)  
 
-📦 Projetos como:
-- Carrinho de compras com JS  
-- Integração de dashboards Power BI em Laravel  
-- Instalações automatizadas de aplicações web  
-- Landing page em React (Cursos League of Legends e Afiliado hotmart)
+📦 Projects like:
+- A shopping cart with JS  
+- Power BI dashboard integration in Laravel  
+- Automated deployment scripts for web apps  
+- React landing pages (League of Legends courses + Hotmart affiliate)
 
 ---
 
 ## 📊 Data & BI
 
-📈 Experiência forte com **Power BI** e **Excel**, incluindo:
-- **Projeto Cronus** – dashboard de gestão de ativos da S.T.I  
-- ETL com **Power Query**, modelagem DAX e automação de relatórios  
-- Cruzamento de dados e análise de performance de TI  
+📈 Strong experience with **Power BI** and **Excel**, including:
+- **Cronus Project** — STI asset management dashboard  
+- ETL with **Power Query**, DAX modeling, and report automation  
+- Data cross-referencing and IT performance analysis  
 
 ---
 
-## 🧩 Outros Conhecimentos
+## 🧩 Other Skills
 
-- **AtoM (Access to Memory)** – instalação, manutenção e integração com Elasticsearch  
-- **GLPI** e **Snipe-IT** – implantação e troubleshooting  
-- **Docker** (conceitos e uso em ambientes legados)  
-- **Git/GitHub** – controle de versão, rollback, merge e colaboração  
-
----
-
-## 🧭 Filosofia de Aprendizado
-
-Sou **autodidata** e gosto de entender o *porquê* por trás das tecnologias.  
-Tenho raciocínio lógico forte, boa didática e gosto de explicar soluções técnicas de forma acessível.
-
-💡 **Missão atual:** consolidar automação e containerização (Docker + CI/CD)  
-⚙️ **Visão:** tornar-me um **DevOps Engineer Sênior**, dominando infraestrutura, código e automação ponta a ponta.
+- **AtoM (Access to Memory)** — installation, maintenance, and Elasticsearch integration  
+- **GLPI** and **Snipe-IT** — implementation and troubleshooting  
+- **Docker** (concepts and usage in legacy environments)  
+- **Git/GitHub** — version control, rollback, merges, and collaboration  
 
 ---
 
-### 📬 Vamos nos conectar?
+## 🧭 Learning mindset
+
+I’m **self-taught** and I like understanding the *why* behind the tech.  
+Strong logical thinking, good communication, and I enjoy explaining technical solutions in a clear way.
+
+💡 **Current mission:** strengthen automation and containerization (Docker + CI/CD)  
+⚙️ **Vision:** become a **Senior DevOps Engineer**, mastering infrastructure, code, and end-to-end automation.
+
+---
+
+### 📬 Let’s connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sarcineli-b13203205)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Sarcineli)  
@@ -114,6 +143,4 @@ Tenho raciocínio lógico forte, boa didática e gosto de explicar soluções t�
 
 ---
 
-> “A tecnologia é o elo entre o problema e a solução — e eu gosto de entender os dois lados.”
-
-*
+> “Technology is the bridge between problems and solutions — and I like understanding both sides.”
