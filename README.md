@@ -78,15 +78,6 @@ Currently focused on strengthening my **DevOps path**: Docker, CI/CD, IaC, and e
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
----
-
-## GitHub Stats
-
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarcineli&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarcineli&layout=compact&theme=dark&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sarcineli&theme=dark&hide_border=true)
 
 ---
 
