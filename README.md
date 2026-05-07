@@ -82,10 +82,9 @@ Currently focused on strengthening my **DevOps path**: Docker, CI/CD, IaC, and e
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sarcineli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarcineli&layout=compact&theme=dark"/>
-</p>
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarcineli&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarcineli&layout=compact&theme=dark&langs_count=8)
 
 ---
 
